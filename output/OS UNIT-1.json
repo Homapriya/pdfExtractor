@@ -1,0 +1,1120 @@
+{
+  "title": "OS UNIT-1.pdf",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "UNIT \u2013 I:",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "INTRODUCTION TO OPERATING SYSTEMS",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Definition:",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "functionalities like Windows, Linux, MacOS, iOS, Android etc.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "even video game consoles use some type of Operating system.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "manufacturer, and user preferences.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Purpose:",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "of the resources of the computer.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "OS is a System Software (Tested Program   +   Documentation).",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "History of Operating system:",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "computer)",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "\u2022   In 1960\u2019s IBM started developing their own OS and distributed it.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "\u2022   In 1981, first OS built by Microsoft was DOS known as MS-DOS.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "with MS-DOS.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "components, Operating System services, System Calls.",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Abstract View (or) Generic Architecture of Components of OS:",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Computer System  consists of the following components:",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Python, Java and C++.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "and Linux), Compiler, and Assembler etc.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "System OS.",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Kernel:",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "software.",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "components.",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "Functions of a Kernel in OS:",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "\u2022   Process Management",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "\u2022   Scheduling Processes",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "\u2022   Resource Allocation",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "\u2022   Device Management",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "\u2022   Memory Management",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "USER VIEW & SYSTEM VIEW OF OPERATING SYSTEM",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "system hardware.",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "follows:",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "USER VIEW:",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "user view experiences can be explained as follows \u2212",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "available.",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "between them.",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "sharing though the network.",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "SYSTEM VIEW:",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "processes for execution.",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "communicate with the hardware.",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "programs.",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "COMPUTER - SYSTEM ARCHITECTURE",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Single Processor Systems:",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "move data rapidly among the components of the system.",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "Multi Processor Systems:",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "the computer bus memory and peripherals devices.",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Major Advantages:",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "1.   Increased Throughput",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "2.   Economy of scale",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "3.   Increased reliability",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Clustered Systems:",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "There are mainly three types of the clustered operating system:",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "the remaining nodes run the essential applications.",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "cluster system is more reliable.",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "software version.",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "PROTECTION AND SECURITY IN OS",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "by the OS.",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "introduction of inconsistency.",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "are protected.",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "protected against unauthorized access, viruses, worms etc .",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "STRUCTURES (or) APPROACHES OF OPERATING SYSTEMS",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "small components, or modules, rather than have one monolithic system.",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "1.   Simple Structure:",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "in unauthorized access to I/O procedures.",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "programs, and system programs.",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Chip.",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "begins.",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "program running in phase fails, it crashes the entire system.",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "2.     Monolithic Structure:",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "operational processes of the Operating System.",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "debug. No independent upgradation of functionalities.",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "terminals to access the Operating System.",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "3.   Layered Structure:",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "\u2022",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "functionalities of their lower-level levels.",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "\u2022",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "available.",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "\u2022",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "layer can be changed easily without affecting the other layers.",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "without direct contact with user interface.",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "top layers.",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "4.   Micro Kernel Structure:",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "\u2022",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "This result in a smaller kernel called the micro-kernel.",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "\u2022",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "the remaining operating System remains untouched and works fine.",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "\u2022",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "This organizational structure is used by the  Mac operating system.",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "\u2022",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "\u2022",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "kernel mode.",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "5.   Modular Structure:",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "\u2022",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "kernel.",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "other module.",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "TYPES OF OPERATING SYSTEMS",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "computer system.",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "1.   Simple Batch OS:",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "job to the computer operator.",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "\u2022   Processes with similar types of jobs form into Batch.",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "Example: Bank Statements, Pay rolls, Printings etc\u2026",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Advantages of Multi-Programming Operating System",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "\u2022  Multi Programming increases the Throughput of the System.",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "\u2022  It helps in reducing the response time.",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "Disadvantages of Multi-Programming Operating System",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "\u2022  It is sometimes costly.",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "2.   Time Sharing OS (Multitasking OS):",
+      "page": 10
+    },
+    {
+      "level": "H1",
+      "text": "scheduled basis.",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "Advantages of Time-Sharing Operating System",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "\u2022  CPU remains idle for less time.",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "\u2022  No partiality occurs between the jobs.",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "\u2022  It quickly responses.",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "Disadvantages of Time-Sharing Operating System",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "\u2022  The Problem of Data commination.",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "\u2022  Not reliable",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "3.   Multi Programming OS:",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "memory.",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "Scheduling.",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "Example: Modern OS",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "needs two types of system time: CPU time and IO time.",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "Advantages of Multi-Programming Operating System",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "\u2022  Multi Programming increases the Throughput of the System.",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "\u2022  It helps in reducing the response time.",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "Disadvantages of Multi-Programming Operating System",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "4.   Multi-Processor OS (Parallel Processor):",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "bus, and other peripheral devices.",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "\u2022   These systems are known as tightly coupled systems.",
+      "page": 11
+    },
+    {
+      "level": "H1",
+      "text": "\u2022   This will increase the throughput of the system.",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "Advantages of Multi-Processing Operating System",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "\u2022  It increases the throughput of the system.",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "processor.",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "Disadvantages of Multi-Processing Operating System",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "5.   Distributed OS:",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "\u2022   Distributed systems are also known as loosely coupled systems.",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "multiple users.",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "(such as high-speed buses or telephone lines).",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "Advantages of Distributed Operating System",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "independent of each other.",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "Disadvantages of Distributed Operating System",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "\u2022  Failure of the main network will stop the entire communication.",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "Difference between Client-Server and Peer-to-Peer Network",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "Structure",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "6.   Real time OS:",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "very small. This time interval is called response time.",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "systems, air traffic control systems, robots, etc.",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "be completed.",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "Types of Real-Time Operating Systems",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "Advantages of RTOS",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "\u2022",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "output from all the resources.",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "\u2022",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "\u2022",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "\u2022",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "Error Free:  These types of systems are error-free.",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "\u2022",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "Disadvantages of RTOS",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "\u2022",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "on a few applications to avoid errors.",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "\u2022",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "are expensive as well.",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "\u2022",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "write on.",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "\u2022",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "to switching tasks.",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "7.   Personal Computing Environment:",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "scanners etc.",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "SYSTEM COMPONENTS (or) OPERATING SYSTEMS FUNCTIONS",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "operating system by making system calls or using OS commands.",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "1.   Process Management:",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "shuts them down when required.",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "2.   File Management:",
+      "page": 15
+    },
+    {
+      "level": "H1",
+      "text": "3.   I/O Device Management:",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "Following are the features of I/O device management:",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "\u2022",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "Buffers caching system",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "\u2022",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "Provides general device driver code",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "\u2022",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "Provides drivers for particular hardware devices.",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "\u2022",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "Helps know the individualities of a device.",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "4.   Network Management:",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "maintaining the quality of service .",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "5.   Storage Management:",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "are loaded into the memory and use the disk for processing.",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "6.   Security Management:",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "peripheral devices.",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "OPERATING SYSTEMS SERVICES",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "interfaces or system calls.",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "pass parameters, and acquire the operation outcomes.",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "User Interface",
+      "page": 17
+    },
+    {
+      "level": "H1",
+      "text": "executes the next user-specified command.",
+      "page": 17
+    },
+    {
+      "level": "H1",
+      "text": "Program execution",
+      "page": 17
+    },
+    {
+      "level": "H1",
+      "text": "functionalities.",
+      "page": 17
+    },
+    {
+      "level": "H1",
+      "text": "I/O Operations",
+      "page": 17
+    },
+    {
+      "level": "H1",
+      "text": "Accounting",
+      "page": 17
+    },
+    {
+      "level": "H1",
+      "text": "performance.",
+      "page": 17
+    },
+    {
+      "level": "H1",
+      "text": "Security and Protection",
+      "page": 17
+    },
+    {
+      "level": "H1",
+      "text": "via way of individuals out of doors the manage of the running device.",
+      "page": 17
+    },
+    {
+      "level": "H1",
+      "text": "Communication",
+      "page": 17
+    },
+    {
+      "level": "H1",
+      "text": "shared memory.",
+      "page": 17
+    },
+    {
+      "level": "H1",
+      "text": "Error Handling",
+      "page": 17
+    },
+    {
+      "level": "H1",
+      "text": "occur while any task.",
+      "page": 17
+    },
+    {
+      "level": "H1",
+      "text": "SYSTEMS CALLS",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "kernel of the OS.",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "services. System calls provide this interface.",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "How System Call Works?",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "Step 4)  The execution of user processes resumed in Kernel mode.",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "Types of System calls:",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "termination, creation, and so on.",
+      "page": 18
+    },
+    {
+      "level": "H1",
+      "text": "manipulation, such as reading or writing to the device buffers.",
+      "page": 19
+    },
+    {
+      "level": "H1",
+      "text": "between processes.",
+      "page": 19
+    },
+    {
+      "level": "H1",
+      "text": "Important System Calls Used in OS",
+      "page": 20
+    },
+    {
+      "level": "H1",
+      "text": "1. wait()",
+      "page": 20
+    },
+    {
+      "level": "H1",
+      "text": "the child process has finished running.",
+      "page": 20
+    },
+    {
+      "level": "H1",
+      "text": "parent process once the child process has completed its execution.",
+      "page": 20
+    },
+    {
+      "level": "H1",
+      "text": "2. fork()",
+      "page": 20
+    },
+    {
+      "level": "H1",
+      "text": "be halted while the child process runs.",
+      "page": 20
+    },
+    {
+      "level": "H1",
+      "text": "3. exec()",
+      "page": 20
+    },
+    {
+      "level": "H1",
+      "text": "etc.",
+      "page": 20
+    },
+    {
+      "level": "H1",
+      "text": "4. kill()",
+      "page": 20
+    },
+    {
+      "level": "H1",
+      "text": "5. exit()",
+      "page": 20
+    },
+    {
+      "level": "H1",
+      "text": "used, the resources that the process was using were released.",
+      "page": 20
+    }
+  ]
+}
